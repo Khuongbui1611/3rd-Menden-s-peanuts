@@ -1,0 +1,1 @@
+Technique1, Technique2 and Technique3 are different techniques to scan for anagrams from Dict.txt
