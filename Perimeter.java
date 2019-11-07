@@ -49,10 +49,6 @@ public class Perimeter
     
     /**
      * Find perimeter of a parallelogram
-     * @param s1
-     * @param s2
-     * @param s3
-     * @param s4
      * @return perimeter
      */
     double parallelogram(double s1, double s2, double s3, double s4)
